@@ -1,5 +1,12 @@
 # Magic Decal
 
-## Usage
+![](./Resources/icon.jpg)
 
-![](./Resources/usage.png)
+
+## API reference
+
+![](./Resources/api.png)
+
+## License
+
+[MIT License](./License)
