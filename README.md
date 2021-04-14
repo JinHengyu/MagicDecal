@@ -1,6 +1,6 @@
 # Magic Decal
 
-![](./Resources/icon.jpg)
+![](./Resources/icon.png)
 
 
 ## API reference

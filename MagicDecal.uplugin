@@ -1,10 +1,9 @@
 {
 	"FileVersion": 3,
-	"Version": 1.1,
-	"VersionName": "1.1",
-	"FriendlyName": "MagicDecal",
+	"VersionName": "2021.4.14",
+ 	"FriendlyName": "MagicDecal",
 	"Description": "dynamic geometric transformation for decals",
-	"Category": "my",
+	"Category": "Decal",
 	"CreatedBy": "JinHengyu",
 	"CreatedByURL": "https://jimmy.blog.csdn.net/",
 	"DocsURL": "https://github.com/JinHengyu/MagicDecal",
@@ -14,6 +13,6 @@
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false,
+	"Installed": true,
 	"Modules": []
 }
